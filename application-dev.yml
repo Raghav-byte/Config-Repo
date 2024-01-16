@@ -1,3 +1,3 @@
 spring:
   application:
-    name: CLOUD-CONFIG
+    name: CLOUD-CONFIG-DEV
