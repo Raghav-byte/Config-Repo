@@ -1,1 +1,5 @@
-raghav : shukla
+spring:
+  application:
+    name: CLOUD-CONFIG
+
+    
